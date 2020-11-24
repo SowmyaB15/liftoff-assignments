@@ -27,9 +27,9 @@ It's a way to find suggestions for new books from likeminded people. This idea w
 * Thymeleaf templates
 
 ### What I'll Have to Learn
-API
-Combining or joining SQL tables
-A way to link social profile to preferred mode of communication in the user profile
+1. API
+2. Combining or joining SQL tables
+3. A way to link social profile to preferred mode of communication in the user profile
 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/lj4AyKJI/agile-sprint-board
